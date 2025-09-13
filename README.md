@@ -1,1 +1,2 @@
 # Cpp-WB-exercise-1
+Create a small library mylib with include/mylib/calculator.hpp and src/calculator.cpp exposing class Calculator (add, sub, mul, div). Provide a CMake target mylib and a small app target that uses it. No using namespace std; in headers.

@@ -1,0 +1,381 @@
+Start testing: Sep 15 15:22 UTC
+----------------------------------------------------------
+1/14 Testing: AdditionTest.PositiveNumbers
+1/14 Test: AdditionTest.PositiveNumbers
+Command: "/workspaces/exercise1/build/calculator_test" "--gtest_filter=AdditionTest.PositiveNumbers" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/exercise1/build
+"AdditionTest.PositiveNumbers" start time: Sep 15 15:22 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/exercise1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AdditionTest.PositiveNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AdditionTest
+[ RUN      ] AdditionTest.PositiveNumbers
+[       OK ] AdditionTest.PositiveNumbers (0 ms)
+[----------] 1 test from AdditionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"AdditionTest.PositiveNumbers" end time: Sep 15 15:22 UTC
+"AdditionTest.PositiveNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/14 Testing: AdditionTest.NegativeNumbers
+2/14 Test: AdditionTest.NegativeNumbers
+Command: "/workspaces/exercise1/build/calculator_test" "--gtest_filter=AdditionTest.NegativeNumbers" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/exercise1/build
+"AdditionTest.NegativeNumbers" start time: Sep 15 15:22 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/exercise1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AdditionTest.NegativeNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AdditionTest
+[ RUN      ] AdditionTest.NegativeNumbers
+[       OK ] AdditionTest.NegativeNumbers (0 ms)
+[----------] 1 test from AdditionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"AdditionTest.NegativeNumbers" end time: Sep 15 15:22 UTC
+"AdditionTest.NegativeNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/14 Testing: AdditionTest.PositiveAndNegativeNumbers
+3/14 Test: AdditionTest.PositiveAndNegativeNumbers
+Command: "/workspaces/exercise1/build/calculator_test" "--gtest_filter=AdditionTest.PositiveAndNegativeNumbers" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/exercise1/build
+"AdditionTest.PositiveAndNegativeNumbers" start time: Sep 15 15:22 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/exercise1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AdditionTest.PositiveAndNegativeNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AdditionTest
+[ RUN      ] AdditionTest.PositiveAndNegativeNumbers
+[       OK ] AdditionTest.PositiveAndNegativeNumbers (0 ms)
+[----------] 1 test from AdditionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"AdditionTest.PositiveAndNegativeNumbers" end time: Sep 15 15:22 UTC
+"AdditionTest.PositiveAndNegativeNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/14 Testing: SubtractionTest.PositiveNumbers
+4/14 Test: SubtractionTest.PositiveNumbers
+Command: "/workspaces/exercise1/build/calculator_test" "--gtest_filter=SubtractionTest.PositiveNumbers" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/exercise1/build
+"SubtractionTest.PositiveNumbers" start time: Sep 15 15:22 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/exercise1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SubtractionTest.PositiveNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SubtractionTest
+[ RUN      ] SubtractionTest.PositiveNumbers
+[       OK ] SubtractionTest.PositiveNumbers (0 ms)
+[----------] 1 test from SubtractionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SubtractionTest.PositiveNumbers" end time: Sep 15 15:22 UTC
+"SubtractionTest.PositiveNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/14 Testing: SubtractionTest.NegativeNumbers
+5/14 Test: SubtractionTest.NegativeNumbers
+Command: "/workspaces/exercise1/build/calculator_test" "--gtest_filter=SubtractionTest.NegativeNumbers" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/exercise1/build
+"SubtractionTest.NegativeNumbers" start time: Sep 15 15:22 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/exercise1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SubtractionTest.NegativeNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SubtractionTest
+[ RUN      ] SubtractionTest.NegativeNumbers
+[       OK ] SubtractionTest.NegativeNumbers (0 ms)
+[----------] 1 test from SubtractionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SubtractionTest.NegativeNumbers" end time: Sep 15 15:22 UTC
+"SubtractionTest.NegativeNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/14 Testing: SubtractionTest.PositiveAndNegativeNumbers
+6/14 Test: SubtractionTest.PositiveAndNegativeNumbers
+Command: "/workspaces/exercise1/build/calculator_test" "--gtest_filter=SubtractionTest.PositiveAndNegativeNumbers" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/exercise1/build
+"SubtractionTest.PositiveAndNegativeNumbers" start time: Sep 15 15:22 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/exercise1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SubtractionTest.PositiveAndNegativeNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SubtractionTest
+[ RUN      ] SubtractionTest.PositiveAndNegativeNumbers
+[       OK ] SubtractionTest.PositiveAndNegativeNumbers (0 ms)
+[----------] 1 test from SubtractionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SubtractionTest.PositiveAndNegativeNumbers" end time: Sep 15 15:22 UTC
+"SubtractionTest.PositiveAndNegativeNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/14 Testing: MultiplicationTest.PositiveNumbers
+7/14 Test: MultiplicationTest.PositiveNumbers
+Command: "/workspaces/exercise1/build/calculator_test" "--gtest_filter=MultiplicationTest.PositiveNumbers" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/exercise1/build
+"MultiplicationTest.PositiveNumbers" start time: Sep 15 15:22 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/exercise1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MultiplicationTest.PositiveNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MultiplicationTest
+[ RUN      ] MultiplicationTest.PositiveNumbers
+[       OK ] MultiplicationTest.PositiveNumbers (0 ms)
+[----------] 1 test from MultiplicationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MultiplicationTest.PositiveNumbers" end time: Sep 15 15:22 UTC
+"MultiplicationTest.PositiveNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/14 Testing: MultiplicationTest.ZeroMultipication
+8/14 Test: MultiplicationTest.ZeroMultipication
+Command: "/workspaces/exercise1/build/calculator_test" "--gtest_filter=MultiplicationTest.ZeroMultipication" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/exercise1/build
+"MultiplicationTest.ZeroMultipication" start time: Sep 15 15:22 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/exercise1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MultiplicationTest.ZeroMultipication
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MultiplicationTest
+[ RUN      ] MultiplicationTest.ZeroMultipication
+[       OK ] MultiplicationTest.ZeroMultipication (0 ms)
+[----------] 1 test from MultiplicationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MultiplicationTest.ZeroMultipication" end time: Sep 15 15:22 UTC
+"MultiplicationTest.ZeroMultipication" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/14 Testing: MultiplicationTest.NegativeNumbers
+9/14 Test: MultiplicationTest.NegativeNumbers
+Command: "/workspaces/exercise1/build/calculator_test" "--gtest_filter=MultiplicationTest.NegativeNumbers" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/exercise1/build
+"MultiplicationTest.NegativeNumbers" start time: Sep 15 15:22 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/exercise1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MultiplicationTest.NegativeNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MultiplicationTest
+[ RUN      ] MultiplicationTest.NegativeNumbers
+[       OK ] MultiplicationTest.NegativeNumbers (0 ms)
+[----------] 1 test from MultiplicationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MultiplicationTest.NegativeNumbers" end time: Sep 15 15:22 UTC
+"MultiplicationTest.NegativeNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/14 Testing: MultiplicationTest.PositiveAndNegativeNumbers
+10/14 Test: MultiplicationTest.PositiveAndNegativeNumbers
+Command: "/workspaces/exercise1/build/calculator_test" "--gtest_filter=MultiplicationTest.PositiveAndNegativeNumbers" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/exercise1/build
+"MultiplicationTest.PositiveAndNegativeNumbers" start time: Sep 15 15:22 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/exercise1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MultiplicationTest.PositiveAndNegativeNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MultiplicationTest
+[ RUN      ] MultiplicationTest.PositiveAndNegativeNumbers
+[       OK ] MultiplicationTest.PositiveAndNegativeNumbers (0 ms)
+[----------] 1 test from MultiplicationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MultiplicationTest.PositiveAndNegativeNumbers" end time: Sep 15 15:22 UTC
+"MultiplicationTest.PositiveAndNegativeNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/14 Testing: DivisionTest.PositiveNumbers
+11/14 Test: DivisionTest.PositiveNumbers
+Command: "/workspaces/exercise1/build/calculator_test" "--gtest_filter=DivisionTest.PositiveNumbers" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/exercise1/build
+"DivisionTest.PositiveNumbers" start time: Sep 15 15:22 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/exercise1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DivisionTest.PositiveNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DivisionTest
+[ RUN      ] DivisionTest.PositiveNumbers
+[       OK ] DivisionTest.PositiveNumbers (0 ms)
+[----------] 1 test from DivisionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DivisionTest.PositiveNumbers" end time: Sep 15 15:22 UTC
+"DivisionTest.PositiveNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/14 Testing: DivisionTest.DivideByZeroThrow
+12/14 Test: DivisionTest.DivideByZeroThrow
+Command: "/workspaces/exercise1/build/calculator_test" "--gtest_filter=DivisionTest.DivideByZeroThrow" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/exercise1/build
+"DivisionTest.DivideByZeroThrow" start time: Sep 15 15:22 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/exercise1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DivisionTest.DivideByZeroThrow
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DivisionTest
+[ RUN      ] DivisionTest.DivideByZeroThrow
+[       OK ] DivisionTest.DivideByZeroThrow (0 ms)
+[----------] 1 test from DivisionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DivisionTest.DivideByZeroThrow" end time: Sep 15 15:22 UTC
+"DivisionTest.DivideByZeroThrow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/14 Testing: DivisionTest.NegativeNumbers
+13/14 Test: DivisionTest.NegativeNumbers
+Command: "/workspaces/exercise1/build/calculator_test" "--gtest_filter=DivisionTest.NegativeNumbers" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/exercise1/build
+"DivisionTest.NegativeNumbers" start time: Sep 15 15:22 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/exercise1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DivisionTest.NegativeNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DivisionTest
+[ RUN      ] DivisionTest.NegativeNumbers
+[       OK ] DivisionTest.NegativeNumbers (0 ms)
+[----------] 1 test from DivisionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DivisionTest.NegativeNumbers" end time: Sep 15 15:22 UTC
+"DivisionTest.NegativeNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/14 Testing: DivisionTest.PositiveAndNegativeNumbers
+14/14 Test: DivisionTest.PositiveAndNegativeNumbers
+Command: "/workspaces/exercise1/build/calculator_test" "--gtest_filter=DivisionTest.PositiveAndNegativeNumbers" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/exercise1/build
+"DivisionTest.PositiveAndNegativeNumbers" start time: Sep 15 15:22 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/exercise1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DivisionTest.PositiveAndNegativeNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DivisionTest
+[ RUN      ] DivisionTest.PositiveAndNegativeNumbers
+[       OK ] DivisionTest.PositiveAndNegativeNumbers (0 ms)
+[----------] 1 test from DivisionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DivisionTest.PositiveAndNegativeNumbers" end time: Sep 15 15:22 UTC
+"DivisionTest.PositiveAndNegativeNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 15 15:22 UTC
